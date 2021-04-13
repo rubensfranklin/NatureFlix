@@ -97,12 +97,16 @@ header nav a:hover{
 }
 
 .botao:hover{
-    background-color:white;
+    background-color:#008000;
     color:black;
+    display:inline;
+    text-align: center;
 }
 
 .botao i{
     margin-right: 8px;
+    display:inline;
+     text-align: center;
 }
 
 
@@ -121,9 +125,18 @@ header nav a:hover{
     cursor: pointer;
 }
 
+.item{
+    height: 500px;
+    width: 375px;
+}
 
 .carrosel-filmes{
-    margin-top:5px;
+    margin-top:65px;
+    margin-bottom: 65px;
+    
+
+    
+
 }
 
 
