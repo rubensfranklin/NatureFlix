@@ -16,3 +16,6 @@ Relação de títulos:
 3) Fed Up
 4) Cooked
 5) Rotten
+
+
+Quem quiser visualizar o projeto após clonar é só abrir o index.html e usar o live code,não precisa de npm install,porque é algo bem simples mesmo.
